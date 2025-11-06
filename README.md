@@ -2,4 +2,4 @@
 
 <p>Bienvenido a mi aplicación de clases</p>
 
-<img href="https://i.blogs.es/a2f8a1/win980/1366_521.jpg">
+<img src="https://i.blogs.es/a2f8a1/win980/1366_521.jpg">
