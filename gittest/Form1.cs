@@ -12,9 +12,15 @@ namespace gittest
 {
     public partial class Form1 : Form
     {
+        private int num1;
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
